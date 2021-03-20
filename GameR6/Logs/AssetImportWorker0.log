@@ -163,3 +163,19 @@ System memory in use after: 56.9 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1561.
 Total: 2.779100 ms (FindLiveObjects: 0.140100 ms CreateObjectMapping: 0.232800 ms MarkObjects: 2.353300 ms  DeleteObjects: 0.045400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 129.203391 seconds.
+  path: Assets/Prova
+  artifactKey: Guid(a6f34b85789da114abac76876bdb1430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prova using Guid(a6f34b85789da114abac76876bdb1430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c09ce11316fe2059e015d0d177ac371') in 0.008923 seconds
+  Import took 0.011153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 346.877511 seconds.
+  path: Assets/Prova2
+  artifactKey: Guid(f75f91af044de164e8389aadf6b1d546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prova2 using Guid(f75f91af044de164e8389aadf6b1d546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e83fa693c2133d240092233cc687f7d3') in 0.009675 seconds
+  Import took 0.011690 seconds .
+
