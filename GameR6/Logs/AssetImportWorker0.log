@@ -83,3 +83,12 @@ Received Import Request.
 Start importing Assets/Prova2 using Guid(f75f91af044de164e8389aadf6b1d546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29fd4c06969301e4c027c7c4b97b93b') in 0.003223 seconds
   Import took 0.004753 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 114.700579 seconds.
+  path: Assets/Script
+  artifactKey: Guid(ce4954fa78728d54db0e53100d478e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script using Guid(ce4954fa78728d54db0e53100d478e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a56db7bd4d2b68ddf0b3c2ae0193d') in 0.001992 seconds
+  Import took 0.003743 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
